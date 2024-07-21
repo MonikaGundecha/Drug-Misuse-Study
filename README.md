@@ -1,2 +1,4 @@
 # Drug-Misuse-Study
 Developed SQL database design to study drug consumption among different age groups over the period.
+
+In this project, data transformation was executed using advanced Excel techniques to ensure the integrity and consistency of data for comprehensive analysis of drug consumption patterns. ER diagrams were developed and implemented within a relational database management system, facilitating efficient storage and retrieval of drug usage data through SQL insert queries. SQL was leveraged to conduct detailed data analysis, revealing significant insights into drug consumption across diverse demographics and geographical regions. Additionally, R programming language was employed to create interactive visualizations that illustrated temporal trends and demographic variations in drug usage, providing clear and actionable insights from the analyzed data.
